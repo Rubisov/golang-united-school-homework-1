@@ -1,4 +1,4 @@
-package solution
+package main
 
 import (
 	"github.com/kyokomi/emoji/v2"
