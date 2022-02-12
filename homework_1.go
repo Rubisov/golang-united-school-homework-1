@@ -9,5 +9,5 @@ import (
 func helloWorld() string {
 	worldMessage := emoji.Sprint("Hello :world_map:!")
 	fmt.Println(worldMessage)
-	return worldMessage
+	return worldMessage()
 }
